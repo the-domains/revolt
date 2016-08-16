@@ -1,4 +1,3 @@
-layout_spectrum: 0.039309388026595116
 typography_spectrum: 0.8721377882175148
 color:
   brandStrength: 0.5390059794299304
@@ -6,9 +5,11 @@ color:
   saturation: 0.3644731296226382
   rhythmicContrast: 0.5400315630249679
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.039309388026595116
 name: Revolt
+title: REVOLT
